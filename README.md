@@ -9,7 +9,7 @@ PERINTAHNYA DULU VOS :v
 Dex Tools V.3 Keluaran Terbaru 
 Selain Dex Tools V.3 Ini  Di Ubah Sama Orang?
 Menjadi Script Baru V.3 
-Itu Hanya Recode Palsu
+Itu Hanya Recode
 
 
 apt update
